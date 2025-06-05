@@ -40,7 +40,7 @@
 
 ###
 
-<h1>Contato:</h1>
+<h2>Contato:</h2>
 <br>
 <a>Telefone: +55 81992313410</a>
 <br>
