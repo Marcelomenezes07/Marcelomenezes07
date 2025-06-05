@@ -44,7 +44,7 @@
 <br>
 <a>Telefone: +55 81992313410</a>
 <br>
-<a href = "mailto:marceloamenezes07@gmail.com" target= "_blank">Email</a>
+<a>Email: marceloamenezes07@gmail.com</a>
 <br>
 <a href="https://www.linkedin.com/in/marcelo-menezes-a83970357/" target="_blank">LinkedIn</a>
 
