@@ -8,16 +8,24 @@
 
 <h2 align="left">Sobre mim:</h2>
 
-###
-
 <p align="left">Sou estudante de Ciência da Computação na CESAR School, apaixonado por tecnologia e por entender como as coisas funcionam. Tenho interesse por várias áreas da computação, especialmente desenvolvimento de software e resolução de problemas. <br><br>Gosto de colaborar em projetos, aprender com outras pessoas e construir soluções que tenham impacto real.</p>
 
 ###
 
-<h2 align="left">Tenho habilidade com:</h2>
+<h2>Contato:</h2>
+<br>
+<a>Telefone: +55 81992313410</a>
+<br>
+<a>Email: marceloamenezes07@gmail.com</a>
+<br>
+<a href="https://www.linkedin.com/in/marcelo-menezes-a83970357/" target="_blank">LinkedIn</a>
+<br>
+<br>
+
 
 ###
 
+<h2 align="left">Tenho habilidade com:</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -37,15 +45,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
-
-###
-
-<h2>Contato:</h2>
-<br>
-<a>Telefone: +55 81992313410</a>
-<br>
-<a>Email: marceloamenezes07@gmail.com</a>
-<br>
-<a href="https://www.linkedin.com/in/marcelo-menezes-a83970357/" target="_blank">LinkedIn</a>
 
 
