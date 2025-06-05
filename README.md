@@ -41,7 +41,11 @@
 ###
 
 <h1>Contato:</h1>
-<a href="https://www.linkedin.com/in/marcelo-menezes-a83970357/" target="_blank">LinkedIn</a>
 <br>
-<a href="tel:+5581992313410">Me ligue</a>
+<a>Telefone: +55 81992313410</a>
+<br>
+<a href = "mailto:marceloamenezes07@gmail.com" target= "_blank">Email</a>
+<br>
+<a href="https://www.linkedin.com/in/marcelo-menezes-a83970357/" target="_blank">LinkedIn</a>
+
 
