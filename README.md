@@ -41,6 +41,7 @@
 ###
 
 <h1>Contato:</h1>
-<a href = "https://www.linkedin.com/in/marcelo-menezes-a83970357/">linkedin<a/>
-<a href = "tel:81992313410">Me ligue<a/>
+<a href="https://www.linkedin.com/in/marcelo-menezes-a83970357/" target="_blank">LinkedIn</a>
+<br>
+<a href="tel:+5581992313410">Me ligue</a>
 
